@@ -1,4 +1,10 @@
 {
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
   "files.readonlyInclude": {
     "**/routeTree.gen.ts": true
   },
